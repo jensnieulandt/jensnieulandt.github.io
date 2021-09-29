@@ -7,7 +7,7 @@ url: "https://jensnieulandt.github.io"
 github_username:  jensnieulandt
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
