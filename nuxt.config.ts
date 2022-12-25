@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   typescript: {
     shim: false,
+    typeCheck: true,
     strict: true,
   },
-});
+})
