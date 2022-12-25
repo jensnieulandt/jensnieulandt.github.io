@@ -12,7 +12,10 @@
     "lintfix": "prettier --write --list-different . && pnpm lint:js --fix && pnpm lint:style --fix",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "prepare": "husky install"
+    "prepare": "is-ci || husky install"
+  },
+  "dependencies": {
+    "is-ci": "^3.0.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
