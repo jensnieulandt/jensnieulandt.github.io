@@ -5,5 +5,10 @@ export default defineNuxtConfig({
     typeCheck: true,
     strict: true,
   },
-  modules: ['@nuxtjs/tailwindcss'],
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/content'],
+  nitro: {
+    prerender: {
+      routes: ['/sitemap.xml'],
+    },
+  },
 })
