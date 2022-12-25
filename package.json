@@ -6,12 +6,16 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "commit": "cz"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
+    "@commitlint/cz-commitlint": "^17.3.0",
+    "commitizen": "^4.2.6",
     "husky": "^8.0.0",
+    "inquirer": "^8.2.4",
     "nuxt": "3.0.0"
   }
 }
