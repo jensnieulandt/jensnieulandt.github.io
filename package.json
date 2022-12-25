@@ -2,20 +2,46 @@
   "private": true,
   "scripts": {
     "build": "nuxt build",
+    "commit": "cz",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
+    "lint:js": "eslint --ext \".js,.ts,.vue\" --ignore-path .gitignore .",
+    "lint:style": "stylelint \"**/*.{css,scss,sass,html,vue}\" --ignore-path .gitignore",
+    "lint:prettier": "prettier --check .",
+    "lint": "pnpm lint:js && pnpm lint:style && pnpm lint:prettier",
+    "lintfix": "prettier --write --list-different . && pnpm lint:js --fix && pnpm lint:style --fix",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "prepare": "husky install",
-    "commit": "cz"
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
     "@commitlint/cz-commitlint": "^17.3.0",
+    "@typescript-eslint/eslint-plugin": "^5.6.0",
+    "@typescript-eslint/parser": "^5.6.0",
+    "@vue/eslint-config-standard": "^8.0.1",
     "commitizen": "^4.2.6",
+    "eslint": "^8.30.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-nuxt": "^4.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-vue": "^9.8.0",
     "husky": "^8.0.0",
     "inquirer": "^8.2.4",
-    "nuxt": "3.0.0"
+    "lint-staged": "^13.1.0",
+    "nuxt": "3.0.0",
+    "postcss-html": "^1.5.0",
+    "prettier": "^2.8.1",
+    "stylelint": "^14.16.0",
+    "stylelint-config-prettier": "^9.0.4",
+    "stylelint-config-recommended-vue": "^1.4.0",
+    "stylelint-config-standard": "^29.0.0",
+    "typescript": "^4.9.4"
+  },
+  "lint-staged": {
+    "*.{js,ts,vue}": "eslint --cache",
+    "*.{css,scss,sass,html,vue}": "stylelint",
+    "*.**": "prettier --check --ignore-unknown"
   }
 }

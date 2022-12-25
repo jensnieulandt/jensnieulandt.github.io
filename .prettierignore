@@ -1,0 +1,14 @@
+###
+# Place your Prettier ignore content here
+
+###
+# .gitignore content is duplicated here due to https://github.com/prettier/prettier/issues/8506
+
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
