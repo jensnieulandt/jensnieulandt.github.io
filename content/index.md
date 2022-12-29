@@ -36,15 +36,15 @@ My first professional experience was an internship as a web developer. At Chuck,
 - MySQL / MariaDB / MongoDB
 - JavaScript / TypeScript
 - Angular / Vue / Nuxt
-- CSS / SASS / LESS
+- CSS / SASS / PostCSS
 - HTML
 - Python
 - Vagrant / Docker
-- Webpack
+- Webpack / Vite
 - Git CLI
 - Github / GitLab / Bitbucket
 - Swagger / OpenAPI
 - Jira / Asana / Trello
-- Sketch / Abstract / Invision
+- Sketch / Abstract / Invision / Figma
 - Adobe Creative Suite
-- AWS
+- Object-oriented programming
