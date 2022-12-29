@@ -1,3 +1,8 @@
+---
+title: 'Jens Nieulandt - Resources'
+description: 'These resources might be useful if you are a developer, or maybe you're just interested in what I'm reading. This is how I stay on top of things.'
+---
+
 # Resources
 
 > "The more you learn, the less you know you don't know." - Daniel Kahneman

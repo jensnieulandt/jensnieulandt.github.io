@@ -1,3 +1,8 @@
+---
+title: 'Jens Nieulandt - Developer'
+description: "Hi, I'm Jens, a software developer from Belgium. I enjoy collaborating with others to create high-quality web applications and technical integrations."
+---
+
 # Jens Nieulandt
 
 Developer
