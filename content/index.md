@@ -14,7 +14,7 @@ This website offers an overview of my technical journey.
 
 ## :flamingo: Trilations (2021 - today)
 
-I'm currently working at [Trilations](https://www.trilations.com){.text-pink-400}, a fast-growing consultancy firm. I'm part of the pharma-focused branch of the company.
+I'm currently working at [Trilations](https://www.trilations.com){:target="\_blank" :rel="external nofollow noopener noreferrer" :referrerpolicy="no-referrer"}, a fast-growing consultancy firm. I'm part of the pharma-focused branch of the company.
 
 My team, specifically, is a bunch of enthusiasts dedicated to optimizing a single (privately licensed) application used internationally carrying the name T-App. We also maintain internal tools and try to be the driving force for automation.
 
