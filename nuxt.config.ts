@@ -11,4 +11,7 @@ export default defineNuxtConfig({
       routes: ['/sitemap.xml'],
     },
   },
+  content: {
+    documentDriven: true,
+  },
 })
