@@ -12,7 +12,7 @@ I'm currently working at [Trilations](https://www.trilations.com), a fast-growin
 
 My team, specifically, is a bunch of enthusiasts dedicated to optimizing a single (privately licensed) application used internationally carrying the name T-App. We also maintain internal tools and try to be the driving force for automation.
 
-So far, I have worked on porting T-App to the latest PHP version. I am trying to get the team on board with automated testing. I'm creating a structure for documentation, and I'm reworking the DevOps setup. Wish me luck!
+So far, I have worked on porting T-App to the latest PHP version. I am trying to get the team on board with automated testing. I'm creating a structure for documentation, and I'm reworking the DevOps setup.
 
 ## Springbok Agency (2019 - 2021)
 
