@@ -2,7 +2,7 @@
 
 This is my resume website ([jensn.dev](https://jensn.dev)), which I might (mis)use as a blog or as a platform for experimentation 🧪  
 
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fjensn.dev)
 
 ## Build with
 
