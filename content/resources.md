@@ -33,6 +33,7 @@ I listen to the following podcasts.
 ::list{icon=ph:check-circle-duotone}
 - [Coding Blocks](https://www.codingblocks.net){:target="_blank" :rel="external nofollow noopener noreferrer" :referrerpolicy="no-referrer"}
 - [Javascript Jabber](https://topenddevs.com/podcasts/javascript-jabber){:target="_blank" :rel="external nofollow noopener noreferrer" :referrerpolicy="no-referrer"}
+- [The Laracasts Snippet](https://laracasts.com/podcast){:target="_blank" :rel="external nofollow noopener noreferrer" :referrerpolicy="no-referrer"}
 ::
 
 ## :station: Platforms
