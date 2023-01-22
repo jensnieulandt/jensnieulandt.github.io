@@ -9,10 +9,17 @@ export default defineNuxtConfigSchema({
       /**
        * Twitter handle
        *
-       * @example 'Atinux'
+       * @example 'jensnieulandt'
        * @studioIcon simple-icons:twitter
        * */
       twitter: '',
+      /**
+       * LinkedIn profile
+       *
+       * @example 'jens-nieulandt'
+       * @studioIcon simple-icons:linkedin
+       * */
+      linkedin: '',
       /**
        * Github repository name
        * @example 'nuxt/framework'
