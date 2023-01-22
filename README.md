@@ -2,8 +2,9 @@
 
 This is my resume website ([jensn.dev](https://jensn.dev)), which I might (mis)use as a blog or as a platform for experimentation 🧪  
 
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fjensn.dev)](https://jensn.dev)
+[![Commitizen friendly][commitizen-friendly-src]][commitizen-friendly-href]
+[![Website][website-src]][website-href]
+[![License][license-src]][license-href]
 
 ## Build with
 
@@ -87,3 +88,17 @@ pnpm commit
 ```
 
 This will prompt you to generate a commit message that automatically adheres to [the standard](https://www.conventionalcommits.org/en/v1.0.0).
+
+## License
+
+[MIT License](./LICENSE)
+
+<!-- Badges -->
+[commitizen-friendly-src]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
+[commitizen-friendly-href]: http://commitizen.github.io/cz-cli/
+
+[website-src]: https://img.shields.io/website?url=https%3A%2F%2Fjensn.dev
+[website-href]: https://jensn.dev
+
+[license-src]: https://img.shields.io/github/license/jensnieulandt/jensnieulandt.github.io.svg?style=flat&colorA=18181B&colorB=28CF8D
+[license-href]: https://github.com/jensnieulandt/jensnieulandt.github.io/blob/master/LICENSE
