@@ -24,6 +24,9 @@ const appConfig = useAppConfig()
         :href="`https://twitter.com/${appConfig.socials?.twitter}`"
         title="Twitter"
         class="dark:text-primary-100 hover:text-primary-700 dark:hover:text-primary-300"
+        target="_blank"
+        rel="external nofollow noopener noreferrer"
+        referrerpolicy="no-referrer"
         ><Icon name="fa-brands:twitter" class="w-5 h-5"
       /></a>
       <a
@@ -31,6 +34,9 @@ const appConfig = useAppConfig()
         :href="`https://www.linkedin.com/in/${appConfig.socials?.linkedin}`"
         title="LinkedIn"
         class="dark:text-primary-100 hover:text-primary-700 dark:hover:text-primary-300"
+        target="_blank"
+        rel="external nofollow noopener noreferrer"
+        referrerpolicy="no-referrer"
         ><Icon name="fa-brands:linkedin" class="w-5 h-5"
       /></a>
       <a
@@ -38,6 +44,9 @@ const appConfig = useAppConfig()
         :href="`https://github.com/${appConfig.socials?.github}`"
         title="GitHub"
         class="dark:text-primary-100 hover:text-primary-700 dark:hover:text-primary-300"
+        target="_blank"
+        rel="external nofollow noopener noreferrer"
+        referrerpolicy="no-referrer"
         ><Icon name="fa-brands:github" class="w-5 h-5"
       /></a>
       <ColorModeSwitch

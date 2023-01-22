@@ -5,5 +5,5 @@
 - [ ] optimize meta tags
 - [ ] look for a way to use prettier with mdc syntax
 - [X] add Linkedin connection
-- [ ] make all external links open in new tab
+- [X] make all external links open in new tab
 - [ ] enlarge navigation items on mobile screens
