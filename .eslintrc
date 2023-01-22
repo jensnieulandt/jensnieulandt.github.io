@@ -22,6 +22,8 @@
   "plugins": ["@typescript-eslint"],
 
   "rules": {
-    "vue/script-setup-no-uses-vars": "off"
+    "vue/script-setup-no-uses-vars": "off",
+    "vue/max-attributes-per-line": "off",
+    "vue/multi-word-component-names": "off"
   }
 }
