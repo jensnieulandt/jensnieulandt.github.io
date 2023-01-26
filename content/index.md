@@ -16,7 +16,7 @@ This website offers an overview of my technical journey.
 
 ## :flamingo: Trilations (2021 - today)
 
-I'm currently working at [Trilations](https://www.trilations.com){:target="\_blank" :rel="external nofollow noopener noreferrer" :referrerpolicy="no-referrer"}, a fast-growing consultancy firm. I'm part of the pharma-focused branch of the company.
+I'm currently working at [Trilations](https://www.trilations.com), a fast-growing consultancy firm. I'm part of the pharma-focused branch of the company.
 
 My team, specifically, is a bunch of enthusiasts dedicated to optimizing a single (privately licensed) application used internationally carrying the name T-App. We also maintain internal tools and try to be the driving force for automation.
 
@@ -63,4 +63,4 @@ My first professional experience was an internship as a web developer. At Chuck,
 - Object-oriented programming
 ::
 
-You are at the end of the page, feel free to take a look at the [GitHub repository](https://github.com/jensnieulandt/jensnieulandt.github.io){:target="\_blank" :rel="external nofollow noopener noreferrer" :referrerpolicy="no-referrer"} for this website.
+You are at the end of the page, feel free to take a look at the [GitHub repository](https://github.com/jensnieulandt/jensnieulandt.github.io) for this website.

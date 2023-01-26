@@ -31,11 +31,11 @@ Despite my humorous tone, all are truly valuable for any dev. None of them are e
 I listen to the following podcasts.
 
 ::list{icon=ph:check-circle-duotone}
-- [Coding Blocks](https://www.codingblocks.net){:target="_blank" :rel="external nofollow noopener noreferrer" :referrerpolicy="no-referrer"}
-- [Javascript Jabber](https://topenddevs.com/podcasts/javascript-jabber){:target="_blank" :rel="external nofollow noopener noreferrer" :referrerpolicy="no-referrer"}
-- [The Laracasts Snippet](https://laracasts.com/podcast){:target="_blank" :rel="external nofollow noopener noreferrer" :referrerpolicy="no-referrer"}
+- [Coding Blocks](https://www.codingblocks.net)
+- [Javascript Jabber](https://topenddevs.com/podcasts/javascript-jabber)
+- [The Laracasts Snippet](https://laracasts.com/podcast)
 ::
 
 ## :station: Platforms
 
-I have bought a life-time subscription to [Laracasts](https://laracasts.com){:target="_blank" :rel="external nofollow noopener noreferrer" :referrerpolicy="no-referrer"}.
+I have bought a life-time subscription to [Laracasts](https://laracasts.com).
