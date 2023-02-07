@@ -34,6 +34,7 @@ I listen to the following podcasts.
 - [Coding Blocks](https://www.codingblocks.net)
 - [Javascript Jabber](https://topenddevs.com/podcasts/javascript-jabber)
 - [The Laracasts Snippet](https://laracasts.com/podcast)
+- [Arrested DevOps](https://www.arresteddevops.com)
 ::
 
 ## :station: Platforms
