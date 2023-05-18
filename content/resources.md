@@ -14,9 +14,9 @@ This is how I stay on top of things.
 
 ## :book: Books
 
-I'm attempting to raise my nerd level :icon{name="fluent-emoji:nerd-face"} by reading these books.
+I'm trying to impress :icon{name="fluent-emoji:cat"} my cats :icon{name="fluent-emoji:black-cat"} by reading these books.
 
-Despite my humorous tone, all are truly valuable for any dev. None of them are easy reads though.
+Okay, I'm being a little silly here, but honestly, those resources are legit game-changers for any dev.
 
 ::list{icon=ph:check-circle-duotone}
 - Clean Code - Robert "Uncle Bob" Martin
