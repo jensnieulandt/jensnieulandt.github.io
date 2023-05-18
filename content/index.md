@@ -10,7 +10,11 @@ description: 'Learn more about Jens Nieulandt, a software developer from Belgium
 
 Hi, I'm Jens, a software developer from Belgium.
 
-I enjoy collaborating with others to create high-quality web applications and technical integrations. I advocate for automated testing, readable code, good documentation, and clear standards. In my free time, I experiment with AI and embedded systems.
+I'm passionate about software development, building distributed systems, and DevOps.
+
+I enjoy collaborating with others to create high-quality web applications and technical integrations. I advocate for automated testing, readable code, good documentation, and clear standards.
+
+In my free time, I experiment with AI and embedded systems, while also answering the question "Can it be containerized?".
 
 This website offers an overview of my technical journey.
 
@@ -18,9 +22,11 @@ This website offers an overview of my technical journey.
 
 I'm currently working at [Trilations](https://www.trilations.com), a fast-growing consultancy firm. I'm part of the pharma-focused branch of the company.
 
-My team, specifically, is a bunch of enthusiasts dedicated to optimizing a single (privately licensed) application used internationally carrying the name T-App. We also maintain internal tools and try to be the driving force for automation.
+My team, specifically, is a bunch of enthusiasts dedicated to optimizing a (privately licensed) application used internationally carrying the name T-App. We also maintain internal tools and try to be the driving force for automation.
 
-So far, I have worked on porting T-App to the latest PHP version. I am trying to get the team on board with automated testing. I'm creating a structure for documentation, and I'm reworking the DevOps setup.
+So far, I have worked on porting T-App to the latest version of PHP. I am trying to get the team on board with automated testing. I'm creating a structure for documentation, and I'm reworking the DevOps setup.
+
+Lately I've developed a keen intrest in everything Kubernetes, and I'm evolving into "the DevOps guy".
 
 ## :deer: Springbok Agency (2019 - 2021)
 
@@ -53,6 +59,8 @@ My first professional experience was an internship as a web developer. At Chuck,
 - HTML
 - Python
 - Vagrant / Docker
+- CI/CD pipelines
+- Kubernetes
 - Webpack / Vite
 - Git CLI
 - Github / GitLab / Bitbucket
