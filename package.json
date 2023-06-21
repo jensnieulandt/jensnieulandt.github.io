@@ -41,7 +41,7 @@
     "husky": "^8.0.3",
     "inquirer": "^8.2.5",
     "lint-staged": "^13.2.2",
-    "nuxt": "3.0.0",
+    "nuxt": "3.4.3",
     "nuxt-config-schema": "^0.4.6",
     "nuxt-icon": "^0.2.11",
     "postcss": "^8.4.23",
