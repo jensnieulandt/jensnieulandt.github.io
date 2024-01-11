@@ -55,11 +55,13 @@ My first professional experience was an internship as a web developer. At Chuck,
 - MySQL / MariaDB / MongoDB
 - JavaScript / TypeScript
 - Angular / Vue / Nuxt
+- Svelte / SvelteKit
 - CSS / SASS / PostCSS
 - HTML
 - Python
 - Vagrant / Docker
 - CI/CD pipelines
+- AWS
 - Kubernetes
 - Webpack / Vite
 - Git CLI
