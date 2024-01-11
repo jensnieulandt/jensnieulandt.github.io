@@ -16,7 +16,7 @@ I enjoy collaborating with others to create high-quality web applications and te
 
 In my free time, I experiment with AI and embedded systems, while also answering the question "Can it be containerized?".
 
-This website offers an overview of my technical journey.
+This website offers an overview of my technical journey, and fortunately also a dark mode (top right).
 
 ## :flamingo: Trilations (2021 - today)
 
