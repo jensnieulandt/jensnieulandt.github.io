@@ -14,9 +14,7 @@ This is how I stay on top of things.
 
 ## :book: Books
 
-I'm trying to impress :icon{name="fluent-emoji:cat"} my cats :icon{name="fluent-emoji:black-cat"} by reading these books.
-
-Okay, I'm being a little silly here, but honestly, those resources are legit game-changers for any dev.
+I'm trying to impress :icon{name="fluent-emoji:cat"} my cats :icon{name="fluent-emoji:black-cat"} by reading these books. Honestly, they are legit game-changers for any dev.
 
 ::list{icon=ph:check-circle-duotone}
 - Clean Code - Robert "Uncle Bob" Martin
@@ -32,9 +30,12 @@ I listen to the following podcasts.
 
 ::list{icon=ph:check-circle-duotone}
 - [Coding Blocks](https://www.codingblocks.net)
+- [Kubernetes Unpacked](https://packetpushers.net/podcasts/kubernetes-unpacked)
 - [Javascript Jabber](https://topenddevs.com/podcasts/javascript-jabber)
 - [The Laracasts Snippet](https://laracasts.com/podcast)
 - [Arrested DevOps](https://www.arresteddevops.com)
+- [Nerdland](https://nerdland.be)
+- [Lex Fridman Podcast](https://lexfridman.com/podcast)
 ::
 
 ## :station: Platforms
