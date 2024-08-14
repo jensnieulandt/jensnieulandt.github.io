@@ -12,7 +12,7 @@ Hi, I'm Jens, a software developer from Belgium.
 
 I'm passionate about software development, building distributed systems, and DevOps.
 
-I enjoy collaborating with others to create high-quality web applications and technical integrations. I advocate for automated testing, readable code, good documentation, and clear standards.
+I enjoy collaborating with others to create high-quality web applications and technical integrations. I advocate for automated testing, readable code, valuable documentation, and clear standards.
 
 In my free time, I experiment with AI and embedded systems, while also answering the question "Can it be containerized?".
 
@@ -20,13 +20,15 @@ This website offers an overview of my technical journey, and fortunately also a 
 
 ## :flamingo: Trilations (2021 - today)
 
-I'm currently working at [Trilations](https://www.trilations.com), a fast-growing consultancy firm. I'm part of the pharma-focused branch of the company.
+I work at [Trilations](https://www.trilations.com), a fast-growing consultancy firm. I'm part of the company's pharma-focused branch.
 
-My team, specifically, is a bunch of enthusiasts dedicated to optimizing a (privately licensed) application used internationally carrying the name T-App. We also maintain internal tools and try to be the driving force for automation.
+My team, specifically, is a bunch of enthusiasts dedicated to optimizing a (privately licensed) highly complex application used internationally carrying the name T-App. We also maintain internal tools and try to be the driving force for automation.
 
-So far, I have worked on porting T-App to the latest version of PHP. I am trying to get the team on board with automated testing. I'm creating a structure for documentation, and I'm reworking the DevOps setup.
+So far, I have worked on porting T-App to the latest version of PHP. I am trying to get the team on board with automated testing. I'm creating a structure for documentation.
 
-Lately I've developed a keen intrest in everything Kubernetes, and I'm evolving into "the DevOps guy".
+My biggest achievement is successfully reworking the cloud infrastructure to be deployed with a reusable Terraform setup and creating a helm chart for the app to run on Kubernetes (AWS ECR).
+
+Lately I've developed a keen intrest in everything Kubernetes, and I'm evolving into "the DevOps guy". That also means I'm the go-to person for everything CI/CD.
 
 ## :deer: Springbok Agency (2019 - 2021)
 
@@ -62,7 +64,9 @@ My first professional experience was an internship as a web developer. At Chuck,
 - Vagrant / Docker
 - CI/CD pipelines
 - AWS
-- Kubernetes
+- Kubernetes / Helm
+- Terraform / OpenTofu
+- ArgoCD
 - Webpack / Vite
 - Git CLI
 - Github / GitLab / Bitbucket
