@@ -24,15 +24,15 @@ I work at [Trilations](https://www.trilations.com), a fast-growing consultancy f
 
 My team, specifically, is a bunch of enthusiasts dedicated to optimizing a (privately licensed) highly complex application used internationally carrying the name T-App. We also maintain internal tools and try to be the driving force for automation.
 
-So far, I have worked on porting T-App to the latest version of PHP. I am trying to get the team on board with automated testing. I'm creating a structure for documentation.
+So far, I have worked on porting T-App to the latest version of PHP. I am trying to get the team on board with automated testing and I'm creating a structure for documentation.
 
 My biggest achievement is successfully reworking the cloud infrastructure to be deployed with a reusable Terraform setup and creating a helm chart for the app to run on Kubernetes (AWS ECR).
 
-Lately I've developed a keen intrest in everything Kubernetes, and I'm evolving into "the DevOps guy". That also means I'm the go-to person for everything CI/CD.
+Lately, I've developed a keen interest in Kubernetes, and I'm evolving into "the DevOps guy". That also means I'm the go-to person for everything CI/CD.
 
 ## :deer: Springbok Agency (2019 - 2021)
 
-I was eager to get into a more specialized role, which is what I did at Springbok. The Mechelen-based agency allowed me to focus on full-stack development for Pan-European customers, primarily using Laravel and Vue.js. I was fortunate to gain hands-on DevOps experience using tools like Github, Envoyer, and Azure DevOps.
+I was eager to get into a more specialized role, which is what I did at Springbok. The Mechelen-based agency allowed me to focus on full-stack development for Pan-European customers, primarily using Laravel and Vue.js. I was fortunate to gain hands-on DevOps experience using tools like GitHub, Envoyer, and Azure DevOps.
 
 Because of my previous experience, I also spent time porting legacy software. I introduced automated testing to the company culture and tech stack, while also supporting and mentoring multiple junior developers.
 
@@ -40,11 +40,11 @@ One of the largest, technologically diverse projects I worked on is the website 
 
 ## :fish: Deltacom (2018 - 2019)
 
-At Deltacom, the team was small, that naturally made my role very fluent. Next to being the main point of contact for clients, I was responsible for full stack development for business front- and back-end solutions used by over 20k users (websites, web apps, and member management systems).
+At Deltacom, the team was small, which naturally made my role very fluent. Next to being the main point of contact for clients, I was responsible for full stack development for business front- and back-end solutions used by over 20k users (websites, web apps, and member management systems).
 
-Additionally, I developed and maintained software for a collection company. I worked on porting legacy PHP projects to the Symfony framework, and I was tasked with reverse engineering databases and optimizing server load. An embedded solution used to scan tickets at events was also created by me.
+Additionally, I developed and maintained software for a collection company. I worked on porting legacy PHP projects to the Symfony framework and was tasked with reverse engineering databases and optimizing server load. An embedded solution used to scan tickets at events was also created by me.
 
-To complete my work, I used a variety of technologies, including PHP/Symfony, MySQL/MariaDB, and jQuery. I also introduced versioning and a data redundancy plan for all software maintained by the company.
+To complete my work, I used a variety of technologies, including PHP/Symfony, MySQL/MariaDB, and jQuery. I also introduced versioning and a data redundancy plan for all of the software maintained by the company.
 
 ## :beaver: Chuck (2017)
 
