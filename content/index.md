@@ -20,7 +20,7 @@ This website offers an overview of my technical journey, and fortunately, it als
 
 ## :octopus: Inetum (2024 - today)
 
-I currently work at [Inetum](https://www.inetum.com/en), an international player employing 27 000 consultants and specialists, of which 1 500 are stationed in Belgium.
+I currently work at [Inetum](https://www.inetum.com/en), an international player employing 27 000 consultants and specialists, of whom 1 500 are stationed in Belgium.
 
 I joined Inetum to quickly expand my knowledge in an organisation that takes the learning of hard skills and certifications seriously.
 
