@@ -38,7 +38,7 @@ I have worked on porting T-App to the latest version of PHP. I got the team on b
 
 My biggest achievement is successfully reworking the cloud infrastructure to be deployed with a reusable Terraform setup and creating a Helm chart for the app to run on Kubernetes (AWS ECR).
 
-At Trilations, I've developed a keen interest in Kubernetes, and I evolved into "the DevOps guy". That also means I'm the go-to person for everything CI/CD.
+At Trilations, I developed a keen interest in Kubernetes, and I evolved into "the DevOps guy". That also meant I was the go-to person for everything CI/CD.
 
 ## :deer: Springbok Agency (2019 - 2021)
 
