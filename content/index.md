@@ -18,7 +18,7 @@ In my free time, I experiment with AI and embedded systems, while also exploring
 
 This website offers an overview of my technical journey, and fortunately, it also has a dark mode (top right).
 
-## Inetum (2024 - today)
+## :octopus: Inetum (2024 - today)
 
 I currently work at [Inetum](https://www.inetum.com/en), an international player employing 27 000 consultants and specialists, of which 1 500 are stationed in Belgium.
 
