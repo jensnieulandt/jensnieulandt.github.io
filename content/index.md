@@ -34,7 +34,7 @@ At Trilations, a fast-growing consultancy firm, I was part of the company's phar
 
 My team, specifically, was a bunch of enthusiasts dedicated to optimizing a (privately licensed) highly complex application used internationally, carrying the name T-App. We also maintained internal tools and tried to be the driving force for automation.
 
-I have worked on porting T-App to the latest version of PHP. I got the team on board with automated testing, and I created a structure for documentation.
+I worked on porting T-App to the latest version of PHP. I got the team on board with automated testing and I created a structure for documentation.
 
 My biggest achievement is successfully reworking the cloud infrastructure to be deployed with a reusable Terraform setup and creating a Helm chart for the app to run on Kubernetes (AWS ECR).
 
