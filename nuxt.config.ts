@@ -1,5 +1,8 @@
 import { fileURLToPath } from 'node:url'
 
+const suppressPinceauCssSyntaxNoise =
+  process.env.SUPPRESS_PINCEAU_CSS_SYNTAX_NOISE === '1'
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   compatibilityDate: '2026-05-22',
@@ -56,11 +59,14 @@ export default defineNuxtConfig({
         },
       },
     },
-    esbuild: {
-      logOverride: {
-        'css-syntax-error': 'silent',
-      },
-    },
+    esbuild: suppressPinceauCssSyntaxNoise
+      ? {
+          // Opt-in: only silence known noisy css-syntax-error logs when explicitly requested.
+          logOverride: {
+            'css-syntax-error': 'silent',
+          },
+        }
+      : {},
     resolve: {
       alias: [
         {
