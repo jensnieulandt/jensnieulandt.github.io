@@ -1,3 +1,5 @@
+import { fileURLToPath } from 'node:url'
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   compatibilityDate: '2026-05-22',
@@ -63,8 +65,9 @@ export default defineNuxtConfig({
       alias: [
         {
           find: /^pinceau$/,
-          replacement:
-            '/home/jens/code/jensnieulandt.github.io/shims/pinceau.ts',
+          replacement: fileURLToPath(
+            new URL('./shims/pinceau.ts', import.meta.url)
+          ),
         },
       ],
     },
