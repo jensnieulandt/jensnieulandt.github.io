@@ -1,15 +1,25 @@
-import { defineTheme, palette } from 'pinceau'
+import { defineTheme } from 'pinceau'
 import colors from 'tailwindcss/colors'
-import nuxtThemeTokens from '@nuxt-themes/tokens/tokens'
 
 // See Typography config on https://github.com/nuxt-themes/typography/blob/main/tokens.config.ts
 export default defineTheme({
   color: {
-    primary: nuxtThemeTokens.color?.teal || palette('teal'),
+    black: '#0c0c0d',
+    white: '#ffffff',
+    gray: colors.gray,
+    blue: colors.blue,
+    green: colors.green,
+    yellow: colors.yellow,
+    red: colors.red,
+    primary: colors.teal,
+  },
+  space: {
+    4: '1rem',
+    6: '1.5rem',
   },
   typography: {
     color: {
-      primary: nuxtThemeTokens.color?.teal,
+      primary: colors.teal,
       secondary: colors.gray,
     },
   },

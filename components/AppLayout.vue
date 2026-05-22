@@ -3,7 +3,7 @@ const { cover } = useAppConfig()
 </script>
 
 <template>
-  <div class="sm:pt-6 sm:pb-10">
+  <div class="sm:pt-6 sm:pb-10 text-gray-900 dark:text-gray-100">
     <Html lang="en" />
     <Meta property="og:image" :content="cover" />
     <Meta name="twitter:card" content="summary_large_image" />

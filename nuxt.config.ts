@@ -1,5 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  compatibilityDate: '2026-05-22',
   extends: [
     process.env.TYPOGRAPHY_THEME || '@nuxt-themes/typography',
     '@nuxt-themes/elements',
@@ -10,7 +11,7 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     'nuxt-icon',
     'nuxt-config-schema',
-    '@nuxthq/studio',
+    ...(process.env.NODE_ENV === 'development' ? ['@nuxthq/studio'] : []),
   ],
   colorMode: {
     classSuffix: '',
@@ -27,7 +28,23 @@ export default defineNuxtConfig({
   },
   nitro: {
     prerender: {
+      ignore: [
+        '/__studio.json',
+        '/__pinceau_tokens_schema.json',
+        '/__pinceau_tokens_config.json',
+      ],
       routes: ['/sitemap.xml'],
+    },
+  },
+  vite: {
+    resolve: {
+      alias: [
+        {
+          find: /^pinceau$/,
+          replacement:
+            '/home/jens/code/jensnieulandt.github.io/shims/pinceau.ts',
+        },
+      ],
     },
   },
 })

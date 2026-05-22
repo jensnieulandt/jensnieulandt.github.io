@@ -31,8 +31,8 @@ let _cut
 
 // Functions
 function clear() {
-  _timer && clearInterval(_timer)
-  _throttle && clearTimeout(_throttle)
+  if (_timer) clearInterval(_timer)
+  if (_throttle) clearTimeout(_throttle)
   _timer = null
 }
 function start() {

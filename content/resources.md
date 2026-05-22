@@ -4,7 +4,7 @@ navigation.title: 'Resources'
 description: "These resources might be useful if you are a developer, or maybe you're just interested in what I'm reading. This is how I stay on top of things."
 ---
 
-# :brain: Resources
+# 🧠 Resources
 
 > "The more you learn, the less you know you don't know." - Daniel Kahneman
 
@@ -12,7 +12,7 @@ These resources might be useful if you are a developer, or maybe you're just int
 
 This is how I stay on top of things.
 
-## :book: Books
+## 📖 Books
 
 I'm trying to impress :icon{name="fluent-emoji:cat"} my cats :icon{name="fluent-emoji:black-cat"} by reading these books. Honestly, they are legit game-changers for any dev.
 
@@ -24,7 +24,7 @@ I'm trying to impress :icon{name="fluent-emoji:cat"} my cats :icon{name="fluent-
 - The DevOps Handbook - Gene Kim, Jez Humble, Patrick Debois, and John Willis
 ::
 
-## :headphones: Podcasts
+## 🎧 Podcasts
 
 I listen to the following podcasts.
 
@@ -38,6 +38,6 @@ I listen to the following podcasts.
 - [Lex Fridman Podcast](https://lexfridman.com/podcast)
 ::
 
-## :station: Platforms
+## 🚉 Platforms
 
 I have bought a life-time subscription to [Laracasts](https://laracasts.com).
