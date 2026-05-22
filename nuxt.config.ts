@@ -26,6 +26,10 @@ export default defineNuxtConfig({
       },
     },
   },
+  sourcemap: {
+    client: false,
+    server: false,
+  },
   nitro: {
     prerender: {
       ignore: [
@@ -37,6 +41,24 @@ export default defineNuxtConfig({
     },
   },
   vite: {
+    build: {
+      rollupOptions: {
+        onwarn(warning, warn) {
+          if (
+            warning.message?.includes('plugin pinceau-transforms') &&
+            warning.message?.includes("didn't generate a sourcemap")
+          ) {
+            return
+          }
+          warn(warning)
+        },
+      },
+    },
+    esbuild: {
+      logOverride: {
+        'css-syntax-error': 'silent',
+      },
+    },
     resolve: {
       alias: [
         {
