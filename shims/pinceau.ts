@@ -1,4 +1,4 @@
-export * from '../node_modules/pinceau'
+export * from 'pinceau'
 
 // Runtime placeholders for type-only imports emitted by current Pinceau generation.
 export const PinceauTheme = {}
