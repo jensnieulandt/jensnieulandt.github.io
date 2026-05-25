@@ -14,7 +14,13 @@ This is my resume website ([jensn.dev](https://jensn.dev)), which I might (mis)u
 
 ## Setup
 
-Make sure to install the dependencies:
+Use the pinned Node.js version first:
+
+```bash
+nvm use
+```
+
+Then install the dependencies:
 
 ```bash
 pnpm install

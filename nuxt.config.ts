@@ -1,5 +1,11 @@
+import { fileURLToPath } from 'node:url'
+
+const suppressPinceauCssSyntaxNoise =
+  process.env.SUPPRESS_PINCEAU_CSS_SYNTAX_NOISE === '1'
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  compatibilityDate: '2026-05-22',
   extends: [
     process.env.TYPOGRAPHY_THEME || '@nuxt-themes/typography',
     '@nuxt-themes/elements',
@@ -10,7 +16,7 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     'nuxt-icon',
     'nuxt-config-schema',
-    '@nuxthq/studio',
+    ...(process.env.NODE_ENV === 'development' ? ['@nuxthq/studio'] : []),
   ],
   colorMode: {
     classSuffix: '',
@@ -25,9 +31,51 @@ export default defineNuxtConfig({
       },
     },
   },
+  sourcemap: {
+    client: false,
+    server: false,
+  },
   nitro: {
     prerender: {
+      ignore: [
+        '/__studio.json',
+        '/__pinceau_tokens_schema.json',
+        '/__pinceau_tokens_config.json',
+      ],
       routes: ['/sitemap.xml'],
+    },
+  },
+  vite: {
+    build: {
+      rollupOptions: {
+        onwarn(warning, warn) {
+          if (
+            warning.message?.includes('plugin pinceau-transforms') &&
+            warning.message?.includes("didn't generate a sourcemap")
+          ) {
+            return
+          }
+          warn(warning)
+        },
+      },
+    },
+    esbuild: suppressPinceauCssSyntaxNoise
+      ? {
+          // Opt-in: only silence known noisy css-syntax-error logs when explicitly requested.
+          logOverride: {
+            'css-syntax-error': 'silent',
+          },
+        }
+      : {},
+    resolve: {
+      alias: [
+        {
+          find: /^pinceau$/,
+          replacement: fileURLToPath(
+            new URL('./shims/pinceau.ts', import.meta.url)
+          ),
+        },
+      ],
     },
   },
 })

@@ -6,7 +6,7 @@ description: 'Learn more about Jens Nieulandt, a software developer from Belgium
 
 # Jens Nieulandt
 
-## :technologist: Developer
+## 👨‍💻 Developer
 
 Hi, I'm Jens, a software developer and cloud engineer from Belgium.
 
@@ -18,7 +18,7 @@ In my free time, I experiment with AI and embedded systems, while also exploring
 
 This website offers an overview of my technical journey, and fortunately, it also has a dark mode (top right).
 
-## :octopus: Inetum (2024 - today)
+## 🐙 Inetum (2024 - today)
 
 I currently work at [Inetum](https://www.inetum.com/en), an international player employing 27 000 consultants and specialists, of whom 1 500 are stationed in Belgium.
 
@@ -28,7 +28,7 @@ Currently, I'm working full-time for Toyota Motor Europe as a cloud engineer. I 
 
 I'm working on expanding my role at Inetum by joining the GitHub core team. I have been working with GitHub since 2016, and I'm finally getting certified.
 
-## :flamingo: Trilations (2021 - 2024)
+## 🦩 Trilations (2021 - 2024)
 
 At Trilations, a fast-growing consultancy firm, I was part of the company's pharma-focused branch.
 
@@ -40,7 +40,7 @@ My biggest achievement is successfully reworking the cloud infrastructure to be 
 
 At Trilations, I developed a keen interest in Kubernetes, and I evolved into "the DevOps guy". That also meant I was the go-to person for everything CI/CD.
 
-## :deer: Springbok Agency (2019 - 2021)
+## 🦌 Springbok Agency (2019 - 2021)
 
 I was eager to get into a more specialized role, which is what I did at Springbok. The Mechelen-based agency allowed me to focus on full-stack development for Pan-European customers, primarily using Laravel and Vue.js. I was fortunate to gain hands-on DevOps experience using tools like GitHub, Envoyer, and Azure DevOps.
 
@@ -48,7 +48,7 @@ Because of my previous experience, I also spent time porting legacy software. I 
 
 One of the largest, technologically diverse projects I worked on is the website of Bridgestone's European & Middle Eastern branches. The team built this website with a corporate-level headless back-end and web components.
 
-## :fish: Deltacom (2018 - 2019)
+## 🐟 Deltacom (2018 - 2019)
 
 At Deltacom, the team was small, which naturally made my role very fluent. Next to being the main point of contact for clients, I was responsible for full-stack development for business front- and back-end solutions used by over 20k users (websites, web apps, and member management systems).
 
@@ -56,11 +56,11 @@ Additionally, I developed and maintained software for a collection company. I wo
 
 To complete my work, I used a variety of technologies, including PHP/Symfony, MySQL/MariaDB, and jQuery. I also introduced versioning and a data redundancy plan for all of the software maintained by the company.
 
-## :beaver: Chuck (2017)
+## 🦫 Chuck (2017)
 
 My first professional experience was an internship as a web developer. At Chuck, I added documentation to existing projects and created websites in Laravel and Angular.
 
-## :computer: Skills
+## 💻 Skills
 
 ::list{icon=ph:check-circle-duotone}
 - Laravel / Symfony
