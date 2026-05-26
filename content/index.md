@@ -26,19 +26,19 @@ I joined Inetum to quickly expand my knowledge in an organisation that takes the
 
 I'm working on expanding my role at Inetum by joining the GitHub core team. I have been working with GitHub since 2016, and I'm finally getting certified.
 
-### Project: Toyota Motor Europe (2024 - 2026)
-
-At Toyota Motor Europe, I worked full-time as a cloud engineer. I assisted application teams by building self-service modules in Terraform for AWS. The AWS cloud team at Toyota was doing agile right, which allowed me to perform to the best of my ability.
-
-### Project: Credendo (2026 - today)
-
-Credendo is a European credit insurance company. I joined the company as a DevOps engineer, and I am currently working on migrating the company's AKS workloads to ACA.
-
 ### Project: BASF (2026 - today)
 
 At BASF, I've recently been hired as the Cloud Technical Lead for the company's platform engineering team. I am responsible for the technical direction of the team, and I work closely with the product owner to ensure that the team's work aligns with the company's goals.
 
 Currently, we're building a cloud-agnostic platform for the company's applications on kubernetes. We're using Terraform for infrastructure as code, and we're deploying our applications with ArgoCD.
+
+### Project: Credendo (2026 - today)
+
+Credendo is a European credit insurance company. I joined the company as a DevOps engineer, and I am currently working on migrating the company's AKS workloads to ACA.
+
+### Project: Toyota Motor Europe (2024 - 2026)
+
+At Toyota Motor Europe, I worked full-time as a cloud engineer. I assisted application teams by building self-service modules in Terraform for AWS. The AWS cloud team at Toyota was doing agile right, which allowed me to perform to the best of my ability.
 
 ## 🦩 Trilations (2021 - 2024)
 
